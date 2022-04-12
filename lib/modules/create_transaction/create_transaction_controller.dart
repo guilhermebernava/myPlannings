@@ -14,9 +14,7 @@ class CreateTransactionController {
 
     if (isEmpty != null) return isEmpty;
 
-    final valueToCheck = value.split("\$");
-
-    if (valueToCheck[1] == "0.00") {
+    if (value == "0.00") {
       return 'Please enter value greater than R\$0.00';
     }
 

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_masked_text2/flutter_masked_text2.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:myplannings/models/transaction_model.dart';
 import 'package:myplannings/modules/create_transaction/create_transaction_controller.dart';
@@ -15,11 +14,7 @@ class CreateTransaction extends StatefulWidget {
 }
 
 class _CreateTransactionState extends State<CreateTransaction> {
-  final valueController = MoneyMaskedTextController(
-    decimalSeparator: ".",
-    thousandSeparator: ",",
-    leftSymbol: "R\$",
-  );
+  final valueController = TextEditingController();
 
   final accountNumberController = TextEditingController(text: "0000-000");
 
@@ -51,7 +46,7 @@ class _CreateTransactionState extends State<CreateTransaction> {
                   keyboardType: TextInputType.number,
                   controller: valueController,
                   validator: widget.controller.validateValue,
-                  hint: "R\$ 0,00",
+                  hint: "R\$ 0.00",
                   maxChar: 100000,
                 ),
                 InputForm(
@@ -71,9 +66,9 @@ class _CreateTransactionState extends State<CreateTransaction> {
                         widget.controller.save(
                           TransactionModel(
                             accountNumberController.text,
-                            double.tryParse(
+                            double.parse(
                               valueController.text,
-                            )!,
+                            ),
                           ),
                         );
                       }
