@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'modules/home/home.dart';
+import 'package:myplannings/modules/create_transaction/create_transaction.dart';
+import 'package:myplannings/modules/transaction_page/transaction_page.dart';
+import 'package:myplannings/theme/AppColors.dart';
 import 'modules/splash/splash.dart';
 
 class App extends StatelessWidget {
@@ -10,13 +12,14 @@ class App extends StatelessWidget {
     return MaterialApp(
         title: "MyPlannings",
         theme: ThemeData(
-          primaryColor: Colors.amber,
-          primarySwatch: Colors.deepOrange,
-        ),
+            primaryColor: AppColors.primaryColor,
+            primarySwatch: Colors.lightGreen),
         initialRoute: "/splash",
         routes: {
           "/splash": (context) => Splash(),
-          "/home": (context) => const Home(),
+          "/home": (context) => TransactionPage(),
+          "/transactions": (context) => TransactionPage(),
+          "/create_transaction": (context) => CreateTransaction(),
         });
   }
 }

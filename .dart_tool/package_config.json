@@ -80,6 +80,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_masked_text2",
+      "rootUri": "file:///Users/guilhermebernava/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_masked_text2-0.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/guilhermebernava/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -266,7 +272,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-04-12T14:52:57.522662Z",
+  "generated": "2022-04-12T18:55:18.473409Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }
