@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/guilhermebernava/Downloads/flutter-gerenciamento-de-estado-aula-2/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h

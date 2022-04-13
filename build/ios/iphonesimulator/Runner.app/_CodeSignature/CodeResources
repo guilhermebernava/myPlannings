@@ -6,7 +6,7 @@
 	<dict>
 		<key>AppFrameworkInfo.plist</key>
 		<data>
-		E9JtVX3y69tg0aOODFcuFW1dIEM=
+		NwDvZ+87rsCeblj5QXht2gI7kv8=
 		</data>
 		<key>AppIcon20x20@2x.png</key>
 		<data>
@@ -108,21 +108,25 @@
 		<data>
 		sPhzGA41FQRsyiQc9b/v8rCOPg8=
 		</data>
+		<key>Debug.xcconfig</key>
+		<data>
+		QtWodqEf3vo/40PAlWMdOs8fJkI=
+		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		bPXbfOJS2m0O2eb2snv8hO3JnHg=
+		higQm1fg8txxWFcpq9mbEH4enW8=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
-		2WH3EkzfNpYxRzEQezsUEM18s6A=
+		AHYU+EalgN8Kt61JSeZ4QWXpGtU=
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		DtPDi5zrR3voPUPmuD3UpwsQD5c=
+		V9xyGMRa5lxcHh+9qYmyVfiRveg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		mtf2mlusmmwWCLKLcu+4CUqi4pQ=
+		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -130,15 +134,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		NEWeqGN073ifaN+0V0Ft75+9IPE=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/LOGO_FULL.png</key>
-		<data>
-		FfMptdjeFCeztdWTGizT5SHcNKk=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/logo.png</key>
-		<data>
-		Pbqj9rqRARI74Dw55QtCyYSwl8c=
+		CI5kktdigCZZ4w/Z7hYWWyclg5U=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -150,11 +146,11 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		kt8L4FBvYQXyYe0I250TEGn77Sc=
+		ARII9Pb3pagrM0jpi6R+oUiBVyI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
-		P7bb/oR3EhwqCIH1M6LyTuBIWYU=
+		TdRNbRcrlXQQgeiweLFizPmk92g=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
 		<data>
@@ -162,7 +158,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		ID/dv0+buOzxsdJv4Vat6WcjgXo=
+		rRPDik4S+Lvctjt5835ELUMdGdA=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -244,21 +240,9 @@
 		<data>
 		1QumeTTkdhWvmY7i40QoJewEapE=
 		</data>
-		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
-		<data>
-		E7AW9PmH9RHSx5s32VlzSgQsCII=
-		</data>
-		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
-		<data>
-		iIaYjDo+wd2Jp3uTK1zFXgYB1qs=
-		</data>
-		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
-		<data>
-		+KqYcS2zl3B57brvehQKfxW4xcA=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		wEN00oQ09eEF/hOHZ9bs9j+n4yQ=
+		pbETtPboSwgFWYMeFR/K3GusIEY=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -271,7 +255,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HvMNaysbwvmfab4yQCamWTuf/ApsPJXOj2cLUOJOWDo=
+			ke9TiL039Dl7kjx5p9iWbGR7SK1h0LbyqHuWZ4KN//s=
 			</data>
 		</dict>
 		<key>AppIcon20x20@2x.png</key>
@@ -449,32 +433,39 @@
 			ZQ2gUxmWEdRgkn12jxaOmSDD+9/+PopRzqA3/yf4tK4=
 			</data>
 		</dict>
+		<key>Debug.xcconfig</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qC13ZbNxFu5IIdLNHWWUL+v4AyNTdX/7CCbqveeFtKY=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SZ4gEGSA2kgTvQ4E9iZCQRZhBc2sYWhIWy/be+X9AsQ=
+			xblpFiufJlev9zoKIEye667MYtfjsSN2bNBxovQs+jc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Te4ceyazB0btZ+MzP0KoJ/8ddM4nxEjyFgYtwvjMuyk=
+			1/DVjKoXzxTLVS4riBG3e57cIQHB/yXD1Bpv+dtlFO0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7hvEhxS6ld9TpGdSCsKFihr9q5E29ZZT1AWQZKsf7pE=
+			iWB9ED4E3ltaXVJUQjgESDXM5vQWIBqtmPlFmGcmBaU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ct6Gk2PpeWMIasDsYrGqBhSKGNyI55hT8XU2nC25jp0=
+			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -488,21 +479,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J7jfgXXipq3cvc+3OPvKZYAP0VS17bNTTqQOr92kUjs=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/LOGO_FULL.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4z2sePa6FIHPxI9vYsXAwkKZtBqfUp5+Z5yIETpVD+k=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/logo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IDsnJLSDO56eDRDCIiYx1+NlQOeTPHrjwYkcj7C3FwM=
+			61oZGpOvEvusqs+FyjLORHXimkdFbrQmRgRGspFkkUE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -523,14 +500,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vwZ7a5ebiTsXXKUnQ9vLIEllP54c02XReLYJGgAaRp8=
+			wkgH+QYCle2kLsfYSK6k8kv3SFT1xt56xrfvKIxqYhw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x6NX+tjyECiQtyzbbjyY8U2zoZ7GDbJtE+T+k/dzgI0=
+			d6fK2iHuml40zu1xSV3HnoE9PVFhQREGOzVfduySSBY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
@@ -544,7 +521,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hZ2D5ufVF0OLe0HUVCRWU2/TerTdPezbOnCxGSP6YfU=
+			mPeoMlTXF3szU55iMlmNuHmAwEEjaQ2LA+t5i1OyXwA=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -685,27 +662,6 @@
 			<key>hash2</key>
 			<data>
 			Y7sS66zRuTsBvhoY8E7AmSrn+3DMMIOCUocmE2apBcw=
-			</data>
-		</dict>
-		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/u6qZIrm1l2tjYqQKwWuyK97JNZxM8t2C2Nbr97k6bI=
-			</data>
-		</dict>
-		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3NAV7m20U4HGC+Kodj4AGv6obrS2LzHXgnEs6e9Q6KI=
-			</data>
-		</dict>
-		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ujJqG+2xO2qQxcFJ4s2CyVlq6s14WjtfZ+ptY6ecifI=
 			</data>
 		</dict>
 	</dict>
